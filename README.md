@@ -37,6 +37,8 @@ These instructions will get you a copy of the project up and running on your loc
     pip install -r requirements.txt
     ```
 
+![litresin.ml Settings](https://raw.githubusercontent.com/dishantrathi/litresin.ml/master/src/shortener/templates/litresinml.gif)
+
 4. Editing the Host File [Linux - Mac - Windows](https://support.rackspace.com/how-to/modify-your-hosts-file/)
 
     ```
