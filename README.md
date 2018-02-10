@@ -2,7 +2,7 @@
 
 [Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant)
 
-A python-django powered web application whch can shorten long url's in seconds, designed on Bootstrap 4.
+A python-django powered web application which can shorten long url's in seconds, designed on Bootstrap 4.
 
 
 ## Getting Started 
