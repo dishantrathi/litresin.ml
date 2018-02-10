@@ -1,11 +1,11 @@
-# Litresin.ml URL Shortening Django Powered Web Application
+# Litresin.ml ⚡️ URL Shortening Django Powered 💡 Web Application
 
 [Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant)
 
 A python-django powered web application whch can shorten long url's in seconds, designed on Bootstrap 4.
 
 
-## Getting Started
+## Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
